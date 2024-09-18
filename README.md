@@ -1,2 +1,2 @@
 # psCloudflare
-A PowerShell module to manage Cloudflare account assets.
+A PowerShell module to manage Cloudflare assets.
