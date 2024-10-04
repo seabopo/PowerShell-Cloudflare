@@ -29,7 +29,7 @@
     . ".\init-tokens.ps1"
 
   # Import the module from it's repository location.
-    Import-Module '../' -Force
+    Import-Module '../po.Cloudflare' -Force
 
   # List the exported functions and aliases so they can be copied to the PSD1 file.
     Write-Msg -p -ps -bb -m ' Module Loaded. The following functions and aliases are available:'

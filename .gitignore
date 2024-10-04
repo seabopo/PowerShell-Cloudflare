@@ -1,2 +1,2 @@
-sample-code/init-tokens.ps1
-tests/init-tokens.ps1
+init-tokens.ps1
+.DS_Store
